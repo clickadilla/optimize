@@ -1,0 +1,18 @@
+{
+  "name": "@clickadilla/optimize",
+  "version": "0.0.1",
+  "scripts": {
+    "version:major": "npm version major",
+    "version:minor": "npm version minor",
+    "version:patch": "npm version patch",
+    "publish": "npm publish"
+  },
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/clickadilla/optimize.git"
+  },
+  "devDependencies": {},
+  "peerDependencies": {},
+  "license": "ISC"
+}
